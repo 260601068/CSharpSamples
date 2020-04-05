@@ -1,0 +1,12 @@
+D:\vssource\repos\EmailClient.Model\bin\Debug\EmailClient.Model.dll
+D:\vssource\repos\EmailClient.Model\bin\Debug\EmailClient.Model.pdb
+D:\vssource\repos\EmailClient.Model\obj\Debug\EmailClient.Model.csprojAssemblyReference.cache
+D:\vssource\repos\EmailClient.Model\obj\Debug\EmailClient.Model.csproj.CoreCompileInputs.cache
+D:\vssource\repos\EmailClient.Model\obj\Debug\EmailClient.Model.dll
+D:\vssource\repos\EmailClient.Model\obj\Debug\EmailClient.Model.pdb
+F:\vsrepos\WjlEmail\EmailClient.Model\bin\Debug\EmailClient.Model.dll
+F:\vsrepos\WjlEmail\EmailClient.Model\bin\Debug\EmailClient.Model.pdb
+F:\vsrepos\WjlEmail\EmailClient.Model\obj\Debug\EmailClient.Model.csprojAssemblyReference.cache
+F:\vsrepos\WjlEmail\EmailClient.Model\obj\Debug\EmailClient.Model.csproj.CoreCompileInputs.cache
+F:\vsrepos\WjlEmail\EmailClient.Model\obj\Debug\EmailClient.Model.dll
+F:\vsrepos\WjlEmail\EmailClient.Model\obj\Debug\EmailClient.Model.pdb
