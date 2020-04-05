@@ -1,9 +1,0 @@
-D:\vssource\repos\EmailClient.BLL\bin\Debug\EmailClient.BLL.dll
-D:\vssource\repos\EmailClient.BLL\bin\Debug\EmailClient.BLL.pdb
-D:\vssource\repos\EmailClient.BLL\bin\Debug\EmailClient.Model.dll
-D:\vssource\repos\EmailClient.BLL\bin\Debug\EmailClient.Model.pdb
-D:\vssource\repos\EmailClient.BLL\obj\Debug\EmailClient.BLL.csprojAssemblyReference.cache
-D:\vssource\repos\EmailClient.BLL\obj\Debug\EmailClient.BLL.csproj.CoreCompileInputs.cache
-D:\vssource\repos\EmailClient.BLL\obj\Debug\EmailClient.BLL.csproj.CopyComplete
-D:\vssource\repos\EmailClient.BLL\obj\Debug\EmailClient.BLL.dll
-D:\vssource\repos\EmailClient.BLL\obj\Debug\EmailClient.BLL.pdb
