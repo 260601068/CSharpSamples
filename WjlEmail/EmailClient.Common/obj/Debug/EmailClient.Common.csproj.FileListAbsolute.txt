@@ -1,0 +1,6 @@
+F:\vsrepos\WjlEmail\EmailClient.Common\bin\Debug\EmailClient.Common.dll
+F:\vsrepos\WjlEmail\EmailClient.Common\bin\Debug\EmailClient.Common.pdb
+F:\vsrepos\WjlEmail\EmailClient.Common\obj\Debug\EmailClient.Common.csprojAssemblyReference.cache
+F:\vsrepos\WjlEmail\EmailClient.Common\obj\Debug\EmailClient.Common.csproj.CoreCompileInputs.cache
+F:\vsrepos\WjlEmail\EmailClient.Common\obj\Debug\EmailClient.Common.dll
+F:\vsrepos\WjlEmail\EmailClient.Common\obj\Debug\EmailClient.Common.pdb
